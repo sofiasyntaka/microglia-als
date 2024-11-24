@@ -9,7 +9,7 @@ conda env create -f environment.yml
 
 The notebooks contain the scripts needed for automating puncta analysis and skeleton-spine density analysis. All you need to do is replace the input and output directories with the ones your images are stored in.
 
-Run the notebooks in this order:
+Run the notebooks with the following prefixes in this order:
 1. `analysis_`
 2. `data_processing_`
 
